@@ -40,7 +40,7 @@ Eco-Agric's existing system offers a suite of features designed to support agric
 ## 4. Database Design
 ### Entity-Relationship Diagram (ERD)
 The ERD provided below is a visual representation of the entities and their relationships within the database.
-![ERD_Image](./erdimage.jpg)
+![ERD_Image](./erdimage.png)
 
 #### Farmer:
 - **farmer_id**: Primary key, unique identifier for each farmer.
