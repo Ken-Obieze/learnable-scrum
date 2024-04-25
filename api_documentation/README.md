@@ -70,7 +70,6 @@ Eco-Agric's existing system offers a suite of features designed to support agric
 - **Success Response**: `200 OK`
 - **Error Response**: `401 Unauthorized`
 
-(Continue documenting other endpoints following the same structure.)
 
 ## 5. Security Protocols
 - **Transport Layer Security (TLS)**: All API communication must be encrypted using TLS.
